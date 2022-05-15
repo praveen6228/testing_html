@@ -1,0 +1,4 @@
+ this is new file 
+ its name is newfile .txt
+ have good content
+
